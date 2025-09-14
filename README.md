@@ -11,8 +11,9 @@ This is a **Drupal 10 project** built locally on **XAMPP**.
 ## Setup Instructions
 
 ### 1. Clone Project
-download and copy this folder inside your XAMPP `htdocs` folder:
+Download files and DB from this release https://github.com/tussh/News-Portal/releases/tag/V1.0
 
+download and copy this folder inside your XAMPP `htdocs` folder:
 C:\xampp\htdocs\news_portal
 
 
