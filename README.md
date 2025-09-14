@@ -1,12 +1,11 @@
 # Drupal 10 News Portal
 
-This is a **Drupal 10 project** built locally on **XAMPP**.  
 
 ## Requirements
 - XAMPP (PHP 8.1+, Apache, MySQL/MariaDB)
 - phpMyAdmin (bundled with XAMPP)
 
----
+- Drupal 10.4
 
 ## Setup Instructions
 
