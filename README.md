@@ -57,4 +57,26 @@ Open your browser:
 - **Editor password**: 'News@123456
 
 ---
+## Project Status & Notes
+
+All the required **functionalities from the assessment have been implemented and are working as expected**:
+- User roles and permissions (Admin, Content Editor)
+- News content type with taxonomy category restriction (max 3)
+- News detail page layout and recently added slider
+- Homepage with Top 10, Breaking, and Latest news sliders
+- News listing page with pagination
+- Sidebar categories
+- Static pages
+- Multilingual (English & Arabic)
+- SEO-friendly URLs
+- 404 error page
+
+⚠️ **Note on UI/Styling**  
+The primary focus was on completing the functionality within the given deadline.  
+- You may notice **minor CSS/UI issues** (especially on responsiveness and desktop view).  
+- These are not breaking issues – they were planned for refinement, but due to parallel project tasks and strict timelines, complete polish on UI wasn’t possible.  
+- Functionality is stable, and UI adjustments can be addressed in the next iteration.
+
+✅ Rest assured, **all assessment requirements are met and working**.
+
 Thank you.
