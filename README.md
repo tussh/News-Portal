@@ -21,7 +21,7 @@ C:\xampp\htdocs\news_portal
 1. Start XAMPP (Apache + MySQL).  
 2. Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
 3. Create a new database `news_portal`.  
-4. Import `database/drupal10_database.sql` into this DB.  
+4. Import `database/news_portal.sql` into this DB.  
 
 ---
 
@@ -51,7 +51,7 @@ Open your browser:
 
 ---
 
-## Default Credentials
+## Default Credentials for Admin and Editor User Login Check.
 - **Admin username**: `Admin`  
 - **Admin password**: `News@123456`  
 - **Editor username**: 'Editor'
